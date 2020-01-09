@@ -19,7 +19,7 @@ npm update
 ```
 
 
-
+### Running
 Run this command to view the page in the browser
 
 ```
